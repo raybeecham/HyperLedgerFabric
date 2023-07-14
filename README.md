@@ -141,6 +141,10 @@ docker-compose up -d
 docker-compose down -v
 ```
 
+
+
 - Access the Hyperledger Explorer by navigating to http://localhost:8080 in your local browser. You will be prompted to enter your credentials. Enter "exploreradmin" and "exploreradminpw".
 
 Always consult the official documentation for more detailed installation instructions and updates.
+
+![specialization-certificate](https://github.com/raybeecham/HyperLedgerFabric/blob/main/assets/Hyperledger%20Explorer.png)
