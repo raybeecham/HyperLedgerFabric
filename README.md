@@ -1,6 +1,6 @@
 # Guide: Setting up Hyperledger Fabric Test Network and Hyperledger Explorer
 
-This guide presents a detailed, step-by-step instruction on setting up the Hyperledger Fabric Test Network and Hyperledger Explorer. As these instructions may vary depending on several factors, it's recommended to also refer to the official installation instructions found at [Hyperledger Fabric Installation](https://hyperledger-fabric.readthedocs.io/en/latest/install.html).
+This guide presents a detailed, step-by-step instruction on setting up the Hyperledger Fabric Test Network and Hyperledger Explorer. As these instructions may vary depending on several factors, it's recommended to also refer to the official installation instructions found at [Hyperledger Fabric Installation](https://hyperledger-fabric.readthedocs.io/en/latest/install.html). This is all through Docker btw.
 
 ## 1. Initialize the Droplet
 
